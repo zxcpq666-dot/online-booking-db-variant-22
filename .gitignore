@@ -1,0 +1,39 @@
+# Конфигурация с реальными паролями
+config.php
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Системные файлы macOS
+.DS_Store
+
+# PHPStorm / IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Кэш
+/cache/
+
+# Vendor Composer
+/vendor/
+
+# Файлы окружения
+.env
+
+# Резервные копии SQL
+*.sql.bak
+
+# Временные офисные файлы
+~$*.docx
+~$*.xlsx
+~$*.pptx
